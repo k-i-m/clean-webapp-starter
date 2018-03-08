@@ -1,6 +1,5 @@
-
 (function init() {
-  const myTag = document.querySelector('.myTag');
+    const myTag = document.querySelector('.myTag');
 
-  myTag.innerHTML = "Test";
-})();
+    myTag.innerHTML = 'Test';
+}());
